@@ -1,0 +1,390 @@
+species,observation_id,latitude,longitude,coordinate_uncertainty_meters,country,state_province,county,place_guess,observed_on,quality_grade
+Pluvianus_aegyptius,318006514,18.0263226054,31.4001273997,,,,,"Hussain Narti village, Northern State, Sudan",2023-10-05,research
+Pluvianus_aegyptius,318005800,18.0263226054,31.4001273997,,,,,"Hussain Narti village, Northern State, Sudan",2024-02-07,research
+Pluvianus_aegyptius,318005774,18.0263226054,31.4001273997,,,,,"Hussain Narti village, Northern State, Sudan",2024-02-03,research
+Pluvianus_aegyptius,318006101,18.0360296361,31.4209878715,,,,,"Hussian Narti Village, Northern State, Sudan",2023-08-30,research
+Pluvianus_aegyptius,318006236,18.0263226054,31.4001273997,,,,,"Hussain Narti village, Northern State, Sudan",2023-09-06,research
+Pluvianus_aegyptius,318005958,18.0337778312,31.4139211003,,,,,"Hussain Narti village, Northern State, Sudan",2023-07-01,research
+Pluvianus_aegyptius,318005792,18.0263226054,31.4001273997,,,,,"Hussain Narti village, Northern State, Sudan",2024-02-07,research
+Pluvianus_aegyptius,317762449,13.6200647419,-15.2614752462,,,,,,2025-09-19,research
+Paradisaea_raggiana,317217442,-9.4349871944,147.3542941667,,,,,"Kairuku-Hiri District, Central Province, Papua New Guinea",2025-08-18,research
+Paradisaea_raggiana,316910324,-9.4350794167,147.3536708056,,,,,"Kairuku-Hiri District, Central Province, Papua New Guinea",2025-08-18,research
+Phaethon_lepturus,317540288,-13.4836719246,48.2370644014,,,,,"Antsiranana II, Madagascar",2025-09-26,research
+Phaethon_lepturus,316416880,21.3102459522,-157.656176649,,,,,"Waimanalo, HI 96795, USA",2025-09-24,research
+Phaethon_lepturus,318103037,21.3107831968,-157.655352205,,,,,"Waimanalo, HI 96795, USA",2025-10-01,research
+Phaethon_lepturus,317476265,22.1548833333,-159.658155,,,,,"Princeville, HI, US",2025-08-27,research
+Phaethon_lepturus,315853270,32.3473472305,-64.6567153931,,,,,"Saint George's, BM",2023-05-01,research
+Phaethon_lepturus,315991180,19.4025241736,-155.2817273395,,,,,"Kīlauea, Pahoa, HI, US",2025-08-22,research
+Phaethon_lepturus,315991181,19.4066080729,-155.2848911549,,,,,"Kīlauea, Pahoa, HI, US",2025-08-22,research
+Phaethon_lepturus,315991182,19.4066807663,-155.2865881982,,,,,"Kīlauea, Pahoa, HI, US",2025-08-22,research
+Phaethon_lepturus,317931867,-23.1933445494,113.6379694967,,,,,"Carnarvon, AU-WA, AU",2025-10-01,research
+Phaethon_lepturus,315991176,19.4090440295,-155.283914609,,,,,"Kīlauea, Pahoa, HI, US",2025-08-22,research
+Phaethon_lepturus,318103136,21.3115375223,-157.6537864655,,,,,"Honolulu County, HI, USA",2025-10-01,research
+Phaethon_lepturus,317534530,-10.4281809767,105.6652416467,,,,,Christmas Island,2025-09-29,research
+Phaethon_lepturus,317503251,-4.3893731377,55.2404165267,,,,,Ile du Nord,2025-09-24,research
+Phaethon_lepturus,316865098,-10.4164364067,105.67478261,,,,,"Christmas Island 6798, Christmas Island",2025-09-27,research
+Phaethon_lepturus,316615786,19.4933583333,-155.9183305556,,,,,"Captain Cook, HI, USA",2025-06-29,research
+Phaethon_lepturus,316494736,21.6338889,-158.0466667,,,,,"Waimea Falls, North Shore, HI 96712, USA",2024-07-15,research
+Phaethon_lepturus,315991188,19.4127348898,-155.2743060378,,,,,"Kīlauea, Pahoa, HI, US",2025-08-22,research
+Phaethon_lepturus,317227995,-20.4226734316,57.6997363195,,,,,"HMGX+RFM, Mahebourg, Mauritius",2025-09-28,research
+Phaethon_lepturus,316454532,22.6680283333,-157.9766866667,,,,,,2025-09-24,research
+Heliconia_latispatha,317057330,10.2222101181,-84.1672231438,,,,,"Cinchona, Provincia de Alajuela, Alajuela, Costa Rica",2025-09-16,research
+Heliconia_latispatha,318088977,8.31117308,-77.80791445,,,,,"Pinogana, PA-DR, PA",2025-10-01,research
+Heliconia_latispatha,317448824,21.3338416667,-157.8034833333,,,,,"Manoa Rd, Kailua, HI, US",2025-09-17,research
+Heliconia_latispatha,316627006,16.9029471997,-89.8944994997,,,,,"W433+5RP, Flores, Guatemala",2025-09-25,research
+Heliconia_latispatha,317191707,8.1186638333,98.6214533333,,,,,"Yao Noi Island, Ko Yao District, Phang Nga, TH",2025-09-28,research
+Heliconia_latispatha,317295073,8.7862583333,-82.9601833333,,,,,"Coto Brus, Puntarenas, CR",2025-09-28,research
+Heliconia_latispatha,317099806,9.7797666667,-84.6064083333,,,,,"Garabito, Puntarenas, CR",2025-09-19,research
+Heliconia_latispatha,316096865,4.419184,-75.810764,,,,,"C59Q+MM Santuario Santa Fe, La Tebaida, Quindío, Colombia",2025-09-21,research
+Heliconia_latispatha,316645665,9.3892166667,-84.1440666667,,,,,"9VR3+5MF, Puntarenas Province, Quepos, 00506, Costa Rica",2025-09-25,research
+Heliconia_latispatha,317164546,9.7712897545,-84.6089050546,,,,,"Tárcoles, Puntarenas Province, Garabito, Costa Rica",2025-09-27,research
+Heliconia_latispatha,317050293,9.8161006011,-83.5796203121,,,,,"Turrialba, Cartago, CR",2025-09-08,research
+Heliconia_latispatha,317875898,4.6679594666,-74.0999564554,,,,,"Jardín Botánico de Bogotá José Celestino Mutis, CU, CO",2025-09-28,research
+Heliconia_latispatha,317455084,9.8466043827,-83.904693136,,,,,"Avenida Seis, Cartago, Cartago, CR",2025-08-18,research
+Heliconia_latispatha,316648278,9.4092621477,-84.1553847492,,,,,"CR5V+PR5, Provincia de Puntarenas, Quepos, Costa Rica",2025-09-25,research
+Heliconia_latispatha,316936519,8.1191111667,98.6226966667,,,,,"Ko Yao District, Phang Nga, TH",2025-09-27,research
+Botaurus_lentiginosus,316875306,44.0692318506,-123.263566643,,,,,"Eugene, OR 97402, USA",2025-09-23,research
+Botaurus_lentiginosus,318103159,41.9683083333,-82.52278,,,,,"Lake Pond, Leamington, ON, CA",2025-09-26,research
+Botaurus_lentiginosus,315873108,48.8041059762,-122.6501543883,,,,,"Whatcom County, WA, USA",2021-04-29,research
+Botaurus_lentiginosus,317685805,47.0812551972,-122.7179848746,,,,,"Brown Farm Rd NE, Olympia, WA, US",2025-09-28,research
+Botaurus_lentiginosus,317364747,43.6298051024,-79.3258977047,,,,,"Tommy Thompson Park , Toronto, ON, Canada",2025-09-28,research
+Botaurus_lentiginosus,317547751,36.8514574136,-75.9792194143,,,,,"Virginia Beach, VA 23451, USA",2025-09-29,research
+Botaurus_lentiginosus,318218382,26.3163,-80.6327,,,,,"Broward County, US-FL, US",2025-10-02,research
+Botaurus_lentiginosus,317332731,45.2795138882,-72.1693614513,,,,,"Magog, QC, Canada",2025-09-27,research
+Botaurus_lentiginosus,317318223,33.969815,-118.43433,,,,,"Playa Del Rey, Los Angeles, CA, USA",2025-09-06,research
+Botaurus_lentiginosus,317840153,45.7830954936,-64.2589363083,,,,,"Amherst, NS B4H 3Y4, Canada",2025-09-30,research
+Botaurus_lentiginosus,316138566,47.0661429,-70.80754,,,,,"Cap-Tourmente, QC G0A 3X0, Canada",2025-09-17,research
+Botaurus_lentiginosus,317653340,46.2403096682,-119.228584488,,,,,"Richland, WA, USA",2025-09-28,research
+Botaurus_lentiginosus,316586402,45.51635,-78.3933861111,,,,,"Algonquin Highlands, ON, Canada",2025-09-25,research
+Botaurus_lentiginosus,318134250,40.8565833226,-124.0967121368,,,,,"Jacoby Creek, Eureka, CA, USA",2025-08-31,research
+Botaurus_lentiginosus,315806911,41.1089587649,-121.4248275384,,,,,"McArthur, CA 96056, USA",2025-09-21,research
+Botaurus_lentiginosus,317392144,40.858337765,-124.094402829,,,,,"Arcata Marsh and Wildlife Sanctuary, Arcata, CA, US",2025-09-28,research
+Botaurus_lentiginosus,316555385,44.4157297217,-123.3151272217,,,,,"Benton County, OR, USA",2025-09-01,research
+Botaurus_lentiginosus,317208727,34.648332076,-83.401385285,,,,,"Habersham County, GA, USA",2025-04-26,research
+Botaurus_lentiginosus,316854622,32.6325817126,-116.9015895231,,,,,"San Diego County, CA, USA",2025-09-26,research
+Botaurus_lentiginosus,316577104,44.2122216667,-78.8291783333,,,,,"Washburn Island Rd, Kawartha Lakes, ON, CA",2025-09-25,research
+Botaurus_lentiginosus,316376670,42.8646299395,-120.6544815105,,,,,"Lake County, US-OR, US",2025-09-19,research
+Botaurus_lentiginosus,317660267,47.5990715738,-122.0087531582,,,,,Hazel Wolf Wetlands,2025-09-28,research
+Botaurus_lentiginosus,316155680,28.6690916667,-81.567825,,,,,"Lust Rd, Apopka, FL, US",2024-12-21,research
+Botaurus_lentiginosus,318038729,39.4644363,-74.4505376,,,,,"Edwin B. Forsythe National Wildlife Refuge, 800 Great Creek Rd, Galloway, NJ 08205, USA",2025-09-30,research
+Botaurus_lentiginosus,317465117,36.9617383333,-121.774375,,,,,"Pinto Lake County Park, Watsonville, CA, US",2025-09-28,research
+Botaurus_lentiginosus,318020151,29.6884913285,-81.4719133211,,,,,"Hastings, FL, US",2025-09-23,research
+Botaurus_lentiginosus,316383838,44.4004748253,-78.3760466287,,,,,"Peterborough, CA-ON, CA",2024-06-22,research
+Botaurus_lentiginosus,316835052,33.0628701622,-80.1070053325,,,,,"Ashworth Dr, Goose Creek, SC, US",2024-12-14,research
+Botaurus_lentiginosus,317597186,45.7928909603,-122.7599681541,,,,,"Ridgefield, WA 98642, USA",2025-02-28,research
+Botaurus_exilis,317402576,25.8946762792,-97.4872816978,,,,,"Brownsville, TX, USA",2025-09-19,research
+Botaurus_exilis,317049755,27.827115555,-97.0795372217,,,,,"Port Aransas, TX, USA",2025-09-21,research
+Botaurus_exilis,316017229,26.486822144,-80.1606222014,,,,,"Palm Beach County, FL, USA",2025-06-20,research
+Botaurus_exilis,316348096,29.6109981674,-94.5460296994,,,,,"Jocelyn Nungaray National Wildlife Refuge, Anahuac, TX, US",2025-09-14,research
+Botaurus_exilis,318219744,20.9475444444,-97.423675,,,,,"Jardines de Tuxpan, 92890 Túxpam de Rodríguez Cano, Ver., México",2025-10-01,research
+Botaurus_exilis,316967899,26.31263,-80.29802,,,,,"Conservation Levee Trail, Coral Springs, FL, US",2025-09-27,research
+Botaurus_exilis,316629291,45.4478177679,-74.0115363784,,,,,"L'Île-Cadieux, QC, CA",2025-09-25,research
+Botaurus_exilis,318069684,20.9473616667,-97.42382,,,,,"Calle Río Atoyac, Túxpam de Rodríguez Cano, Ver., MX",2025-10-01,research
+Botaurus_exilis,317910869,33.1027223729,-79.2466973085,,,,,"South Carolina, US",2025-09-27,research
+Botaurus_exilis,316419066,43.2169317087,-79.6140244643,,,,,"Grimsby, ON, Canada",2025-09-06,research
+Botaurus_exilis,317986368,26.4871311436,-80.1607213813,,,,,Green Cay Nature Center and Wetlands,2025-06-27,research
+Botaurus_exilis,315823109,28.8625947593,-95.5407330394,,,,,"Brazoria, TX 77422, USA",2025-08-23,research
+Diphyllodes_respublica,317468010,-0.5818183199,130.8984869217,,,,,"Raja Ampat, ID-IB, ID",2025-09-19,research
+Asplenium_nidus,316909276,8.1206826944,98.6241149722,,,,,4JCF+3FV ตำบล เกาะยาวน้อย อำเภอ เกาะยาว พังงา 82160 ประเทศไทย,2025-09-27,research
+Asplenium_nidus,317176023,8.1179883333,98.6212933333,,,,,4J9C+8V9 ตำบล เกาะยาวน้อย อำเภอ เกาะยาว พังงา 82160 ประเทศไทย,2025-09-28,research
+Asplenium_nidus,316202067,8.1188167,98.62473204,,,,,4J9F+GXX ตำบล เกาะยาวน้อย อำเภอ เกาะยาว พังงา 82160 ประเทศไทย,2025-09-24,research
+Asplenium_nidus,317188685,8.1177945,98.62143,,,,,"Yao Noi Island, Ko Yao District, Phang Nga, TH",2025-09-28,research
+Asplenium_nidus,316223989,8.1185861667,98.6247716667,,,,,"Ko Yao District, Phang Nga, TH",2025-09-24,research
+Asplenium_nidus,317692750,8.1204778333,98.6240083333,,,,,"เกาะยาวน้อย, อ.เกาะยาว, จ.พังงา, TH",2025-09-30,research
+Asplenium_nidus,317157526,8.1194563133,98.6240113918,,,,,"Ko Yao District, Phang Nga, TH",2025-09-28,research
+Asplenium_nidus,317486022,8.1197143983,98.6250722408,,,,,4JCF+4XP ตำบล เกาะยาวน้อย อำเภอ เกาะยาว พังงา 82160 ประเทศไทย,2025-09-29,research
+Asplenium_nidus,316194407,13.8460083333,100.5707166667,,,,,"มหาวิทยาลัยเกษตรศาสตร์, เขตจตุจักร, กรุงเทพมหานคร, TH",2025-09-24,research
+Asplenium_nidus,317142636,-15.9772316624,145.423868324,,,,,"Cape Tribulation QLD 4873, Australia",2025-09-22,research
+Asplenium_nidus,316218726,8.1203471667,98.624,,,,,"Ko Yao District, Phang Nga, TH",2025-09-24,research
+Asplenium_nidus,316942152,8.1188361111,98.6225527778,,,,,3 ตำบล เกาะยาวน้อย อำเภอ เกาะยาว พังงา 82160 ประเทศไทย,2025-09-26,research
+Asplenium_nidus,317004858,8.1196929722,98.6248559722,,,,,4JCF+4XP ตำบล เกาะยาวน้อย อำเภอ เกาะยาว พังงา 82160 ประเทศไทย,2025-09-25,research
+Asplenium_nidus,316910724,8.1215548629,98.6254158989,,,,,4JCG+G8R ตำบล เกาะยาวน้อย อำเภอ เกาะยาว พังงา 82160 ประเทศไทย,2025-09-27,research
+Asplenium_nidus,316916146,8.1178361111,98.6213527778,,,,,4J9C+8V9 ตำบล เกาะยาวน้อย อำเภอ เกาะยาว พังงา 82160 ประเทศไทย,2025-09-27,research
+Asplenium_nidus,317493033,5.4243616667,100.2699566667,,,,,"Summit Road, Ayer Itam, Penang, MY",2025-09-29,research
+Ptiloris_paradiseus,317170036,-28.1969215336,153.1785597371,,,,,"Binna Burra QLD 4211, Australia",2025-09-04,research
+Ptiloris_paradiseus,317860991,-28.2139779098,153.126456365,,,,,"O'Reilly QLD 4275, Australia",2025-10-01,research
+Menura_novaehollandiae,316021940,-36.7129665276,149.469051517,,,,,"Tantawangalo, NSW, AU",2025-09-23,research
+Menura_novaehollandiae,316935692,-35.6006840988,148.9460899442,,,,,"Tennent, ACT, AU",2024-11-03,research
+Menura_novaehollandiae,317423010,-37.889545375,145.3670369089,,,,,"Sassafras Gully VIC 3787, Australia",2025-09-28,research
+Menura_novaehollandiae,317258322,-37.7070670253,145.6806777204,,,,,"Warburton VIC 3799, Australia",2025-09-28,research
+Menura_novaehollandiae,316220855,-34.6336306997,150.7190122,,,,,"Jamberoo NSW 2533, Australia",2025-05-08,research
+Menura_novaehollandiae,318142979,-35.5645721192,148.9932149559,,,,,"Namadgi National Park, Tennent, ACT, AU",2025-04-24,research
+Menura_novaehollandiae,316265978,-33.635175,150.6146972222,,,,,"Yarramundi NSW 2753, Australia",2025-09-23,research
+Menura_novaehollandiae,317885968,-34.13793,151.02931,,,,,"Uloola NSW 2232, Australia",2025-09-30,research
+Menura_novaehollandiae,316161533,-37.7746430556,145.7068480556,,,,,"Warburton VIC 3799, Australia",2025-09-15,research
+Menura_novaehollandiae,316633046,-34.1356132605,151.0329848517,,,,,"Palona NSW 2232, Australia",2025-09-16,research
+Menura_novaehollandiae,318144293,-42.9111333333,147.2444,,,,,"Hobart, Wellington Park, TA, AU, Tasmania, Australia",2025-09-21,research
+Menura_novaehollandiae,317157184,-37.215394581,150.0141042269,,,,,"Light to Light Walk, Green Cape, NSW, AU",2025-09-17,research
+Menura_novaehollandiae,318097063,-33.6895966667,151.0912028333,,,,,"Stewart Ave, Hornsby, NSW, AU",2025-10-02,research
+Menura_novaehollandiae,316238501,-38.3575422498,146.3904010429,,,,,"Jeeralang Junction VIC 3840, Australia",2025-09-24,research
+Menura_novaehollandiae,317460980,-33.53913,150.4225466667,,,,,"Mount Tomah, NSW, AU",2025-09-29,research
+Menura_novaehollandiae,316383725,-34.7842654,150.6204931997,,,,,"Jaspers Brush NSW 2535, Australia",2025-09-25,research
+Menura_novaehollandiae,316646149,-36.6877307663,149.8933948865,,,,,"Bega Valley, AU-NS, AU",2025-09-25,research
+Menura_novaehollandiae,316666813,-37.7064155703,145.6815880297,,,,,"Donna Buang Summit Rd, Warburton, VIC, AU",2025-09-26,research
+Menura_novaehollandiae,317722126,-34.0995861667,151.0487528333,,,,,"Lady Carrington Dr, Royal National Park, NSW, AU",2025-09-30,research
+Menura_novaehollandiae,316389646,-37.87,145.38,,,,,"Olinda VIC 3788, Australia",2025-09-24,research
+Menura_novaehollandiae,316454010,-37.3821579167,145.748708494,,,,,"Jawbone Creek Tk, Taggerty, VIC, AU",2025-09-25,research
+Menura_novaehollandiae,316265960,-33.6612555556,150.6130333333,,,,,"Yarramundi NSW 2753, Australia",2025-09-23,research
+Menura_novaehollandiae,317518773,-33.7286538997,150.3025632,,,,,"Blue Mountains, NSW, Australia",2025-09-29,research
+Menura_novaehollandiae,317178560,-37.8518455412,145.3845392566,,,,,"RJ Hamer Arboretum, Olinda, VIC, AU",2025-09-28,research
+Menura_novaehollandiae,317885029,-34.140683,151.030563,,,,,"Uloola NSW 2232, Australia",2025-09-30,research
+Menura_novaehollandiae,317424004,-37.7114216667,145.7094416667,,,,,"Yarra Ranges National Park, Warburton, VIC, AU",2025-09-29,research
+Menura_novaehollandiae,317258324,-37.707129625,145.6808319474,,,,,"Warburton VIC 3799, Australia",2025-09-28,research
+Menura_novaehollandiae,316139698,-37.8800385263,145.3518462181,,,,,"Sherbrooke VIC 3789, Australia",2025-09-13,research
+Menura_novaehollandiae,316428499,-37.8425666667,145.3725883333,,,,,"Dandenong Ranges Botanic Garden, Olinda, VIC, AU",2025-09-25,research
+Menura_novaehollandiae,316090640,-38.3598356069,146.3885014399,,,,,"Yinnar South VIC 3869, Australia",2025-09-23,research
+Menura_novaehollandiae,316022060,-36.7236450311,149.4704447069,,,,,"Tantawangalo, NSW, AU",2025-09-23,research
+Menura_novaehollandiae,317632167,-33.7253916667,150.3685916667,,,,,"Sir H Burrell Dr, Blue Mountains National Park, NSW, AU",2017-05-18,research
+Menura_novaehollandiae,316707223,-37.940473903,145.2831067899,,,,,"Victoria, AU",2025-09-26,research
+Menura_novaehollandiae,316642633,-34.3967201,150.8604447,,,,,"Illawarra Rhododendron and Rainforest Gardens, Parrish Ave, Mount Keira NSW 2519, Australia",2025-07-29,research
+Menura_novaehollandiae,315784972,-37.971805,145.6162116667,,,,,"Gembrook, VIC, AU",2025-09-02,research
+Menura_novaehollandiae,317886651,-34.13882,151.02068,,,,,"Uloola NSW 2232, Australia",2025-09-30,research
+Menura_novaehollandiae,316678790,-30.3636106022,152.7290643007,,,,,"Dorrigo Mountain NSW 2453, Australia",2025-09-26,research
+Ptiloris_victoriae,316931791,-17.2861201347,145.6354821059,,,,,"Lakes Dr, Lake Eacham, QLD, AU",2025-07-02,research
+Ptiloris_victoriae,316000002,-17.5989083333,145.7599083333,,,,,"Wooroonooran QLD 4860, Australia",2025-09-22,research
+Ptiloris_victoriae,316931312,-17.2863383333,145.635925,,,,,"Lakes Dr, Lake Eacham, QLD, AU",2025-07-02,research
+Ptiloris_victoriae,316640751,-17.2860841,145.635521,,,,,"Eacham Cl, Lake Eacham QLD 4884, Australia",2025-09-22,research
+Ptiloris_victoriae,316859637,-17.2763083333,145.582775,,,,,"Yungaburra QLD 4884, Australia",2025-09-26,research
+Diphyllodes_magnificus,317542125,-0.903163,131.549337,,,,,"3GWX+PP Malasigi Village, bird of paradise, Kuadas, Makbon, Sorong Regency, West Papua, Indonesia",2023-09-22,research
+Paradisaea_rubra,317474899,-0.4018193183,130.8237850659,,,,,"Raja Ampat, ID-IB, ID",2025-09-16,research
+Paradisaea_rubra,317675821,-0.4574026142,130.6613349782,,,,,"Raja Ampat, ID-IB, ID",2025-08-12,research
+Passiflora_tenuiloba,317888804,29.6115722222,-100.4532222222,,,,,"Kinney County, TX, USA",2025-09-28,research
+Passiflora_tenuiloba,317324619,28.48555,-97.7787633333,,,,,"Beeville, TX, US",2025-09-28,research
+Passiflora_tenuiloba,316380371,30.3925384859,-97.9432959972,,,,,"Texas, US",2025-09-06,research
+Passiflora_tenuiloba,318001377,26.5360372709,-100.5222784728,,,,,"65155 N.L., México",2025-10-01,research
+Passiflora_tenuiloba,316491892,28.004661,-98.14661,,,,,"Jim Wells County, TX, USA",2025-09-21,research
+Passiflora_tenuiloba,317364317,30.0694305556,-98.4858611111,,,,,"Blanco, TX 78606, USA",2025-09-28,research
+Passiflora_tenuiloba,317686865,29.7793127402,-100.4238330393,,,,,"Texas, US",2025-09-29,research
+Passiflora_tenuiloba,317303154,29.9900081149,-99.4173321594,,,,,"SH-39, Hunt, TX, US",2025-09-28,research
+Strelitzia_nicolai,317880702,-29.7803813889,153.29788,,,,,"Minnie Water NSW 2462, Australia",2025-09-25,research
+Strelitzia_nicolai,316773907,-29.7789422222,30.7711725,,,,,"Springside Nature Reserve, Hillcrest, South Africa",2025-09-26,research
+Strelitzia_nicolai,316232255,-29.5599293716,31.1879596006,,,,,"Zimbali Estate, Ballito, South Africa",2025-09-05,research
+Strelitzia_nicolai,317880710,-29.7808783333,153.2978141667,,,,,"Minnie Water NSW 2462, Australia",2025-09-25,research
+Strelitzia_nicolai,315952831,-31.4628546686,152.9261221737,,,,,"Port Macquarie-Hastings - Pt A, AU-NS, AU",2025-09-23,research
+Strelitzia_nicolai,318174839,-29.6281890867,30.9866962431,,,,,"Inanda Farm, Iqadi, 4309, South Africa",2025-10-01,research
+Trogonoptera_brookiana,317461988,3.7380613435,108.1391143808,,,,,"Kabupaten Natuna, Kepulauan Riau, Indonesia",2025-09-28,research
+Trogonoptera_brookiana,315814766,5.1119072373,117.7637663924,,,,,"Sabah, MY",2025-06-23,research
+Trogonoptera_brookiana,317201482,3.7123600614,101.7361792892,,,,,"Jalan Genting, Raub, Pahang, MY",2025-09-28,research
+Trogonoptera_brookiana,316627689,5.0251811535,117.7502692549,,,,,"Lahad Datu, Sabah, Malaysia",2025-09-20,research
+Trogonoptera_brookiana,315814768,5.1042304113,117.7012210666,,,,,"Sabah, MY",2025-06-23,research
+Paradisaea_minor,317468001,-0.8048327,131.6438679,,,,,"Malagufuk, Kec. Makbon, Kabupaten Sorong, Papua Bar., Indonesia",2025-09-12,research
+Ornithoptera_priamus,316859909,-9.4034358056,147.2713536111,,,,,"Kairuku-Hiri District, Central Province, Papua New Guinea",2025-08-17,research
+Eurypyga_helias,316422193,-8.607527,-63.8898,,,,,"Porto Velho - RO, Brasil",2025-09-20,research
+Eurypyga_helias,316106904,-16.3808600776,-56.617567019,,,,,"Poconé - State of Mato Grosso, 78175-000, Brazil",2025-09-23,research
+Eurypyga_helias,315863945,2.151780934,-73.7770654529,,,,,"La Macarena, Meta, Kolumbien",2025-08-06,research
+Eurypyga_helias,317282314,-2.297463,-51.8844773,,,,,"Portel - PA, 68480-000, Brasil",2025-09-22,research
+Eurypyga_helias,316863705,6.3428855,-70.07450495,,,,,"Cravo Norte, Cravo Norte, Arauca, CO",2025-09-26,research
+Eurypyga_helias,316670063,-16.1667866529,-63.7420582212,,,,,"Guarayos, Bolivia",2025-09-11,research
+Eurypyga_helias,318242924,-9.7762733333,-67.582235,,,,,"Porto Acre - AC, 69921-000, Brasil",2025-10-01,research
+Eurypyga_helias,315890055,10.04398708,-84.1069562613,,,,,"Heredia, Barva, Buena Vista de Barva de Heredia, Costa Rica",2025-09-22,research
+Eurypyga_helias,316197871,8.6271694444,-80.1062166667,,,,,"El Valle de Antón, Coclé Province, Panama",2025-09-23,research
+Eurypyga_helias,316670044,-16.1667866529,-63.7420582212,,,,,"Guarayos, Bolivia",2025-09-11,research
+Eurypyga_helias,316046012,-12.6853066759,-69.5805154368,,,,,"17400, פרו",2024-09-09,research
+Eurypyga_helias,318110217,-16.36886,-56.6509583333,,,,,"Poconé - State of Mato Grosso, 78175-000, Brazil",2025-09-04,research
+Eurypyga_helias,316643013,-14.4917166667,-66.6181333333,,,,,"Departamento del Beni, BO",2025-09-10,research
+Eurypyga_helias,317156583,-16.5044027778,-56.7450027778,,,,,"Poconé - State of Mato Grosso, 78175-000, Brazil",2025-08-24,research
+Eurypyga_helias,317288930,10.4328936216,-84.7014770428,,,,,"Arenal Observatory Lodge & Spa, CR",2025-09-19,research
+Eurypyga_helias,316197873,8.6268694444,-80.1061777778,,,,,"El Valle de Antón, Coclé Province, Panama",2025-09-23,research
+Eurypyga_helias,317415446,-12.0420652783,-69.6734127783,,,,,"Tambopata, Peru",2025-09-08,research
+Heliornis_fulica,317537759,-9.9740249,-67.8098191,,,,,"Rio Branco, AC, Brasil",2021-09-23,research
+Heliornis_fulica,315834309,10.9691060794,-84.7460580855,,,,,"Alajuela Province, Los Chiles, Costa Rica",2010-02-18,research
+Phaethon_rubricauda,316586700,-23.6517939244,43.6060497477,,,,,"Anakao, Madagascar",2009-10-17,research
+Phaethon_rubricauda,317503349,-10.5017300301,105.6745813246,,,,,"Christmas Island, CX",2025-09-28,research
+Phaethon_rubricauda,316245295,-19.9876739723,57.5967166945,,,,,"2H6W+RP4, Cap Malheureux, Mauritius",2025-09-24,research
+Phaethon_rubricauda,316764197,22.2312456725,-159.4013266696,,,,,"Kilauea, HI 96754, USA",2024-08-21,research
+Phaethon_rubricauda,316589926,-23.6733859342,43.6461901241,,,,,"Andovoke Bay, Anakao 602, Madagascar",2022-12-26,research
+Phaethon_rubricauda,317708685,-23.6511661864,43.6063612412,,,,,"Atsimo-Andrefana, MG-TL, MG",2016-02-13,research
+Phaethon_rubricauda,317708681,-23.6511661864,43.6063612412,,,,,"Atsimo-Andrefana, MG-TL, MG",2016-02-13,research
+Odonus_niger,318234651,-4.6098354794,130.0477762522,,,,,"Seram Bagian Timur, ID-MA, ID",2025-03-14,research
+Odonus_niger,318021980,-18.3320963359,178.0954347585,,,,,"Beqa, Pearl Rock Reef, Fiji",2025-03-04,research
+Odonus_niger,317223455,4.5958254,118.8643398,,,,,"Pulau Pom Pom, Sabah, Malaysia",2025-09-10,research
+Odonus_niger,317500507,-8.3385183399,116.0320535302,,,,,Indonesien,2025-09-28,research
+Odonus_niger,316747978,-13.1080388333,48.1136888333,,,,,,2025-09-24,research
+Odonus_niger,317585268,-16.7886964487,179.9132557882,,,,,"Cakaudrove, FJ-NO, FJ",2025-09-16,research
+Odonus_niger,317074534,-14.2827625456,-169.408386362,,,,,American Samoa,2016-04-20,research
+Odonus_niger,317695867,-27.5328835464,32.6830385763,,,,,"Umkhanyakude, ZA-NL, ZA",2025-09-26,research
+Odonus_niger,317340151,12.0220714403,92.7876191508,,,,,"South Andaman, IN-AN, IN",2025-01-11,research
+Menura_alberti,316218331,-28.1228338112,153.1797013345,,,,,"Beechmont, QLD, AU",2025-09-14,research
+Menura_alberti,316419463,-28.0187157882,153.3829168219,,,,,"Queensland, AU",2025-09-05,research
+Phaethon_aethereus,316055779,16.2012339801,-22.9040256686,,,,,"Boa Vista, Cap-Vert",2014-11-02,research
+Phaethon_aethereus,316383378,25.4389311924,-109.3767203249,,,,,,2025-09-21,research
+Phaethon_aethereus,317302327,14.654321673,-17.4702326039,,,,,"Ile de Madeleine, Dakar, Sénégal",2025-09-28,research
+Phaethon_aethereus,317302324,14.6553107457,-17.4691198598,,,,,"Ile de Madeleine, Dakar, Sénégal",2025-09-28,research
+Phaethon_aethereus,316725122,13.0587654,80.2756297,,,,,"Triplicane, Chennai, Tamil Nadu, India",2023-11-02,research
+Phaethon_aethereus,317944281,16.7290655469,-22.9008733273,,,,,Cape Verde,2025-10-01,research
+Phaethon_aethereus,316898732,9.4541100136,-82.2997595087,,,,,"Bocas Del Toro, PA",2008-03-05,research
+Phaethon_aethereus,317816468,-15.9256139722,-5.719147,,,,,"Jamestown, SH-SH, SH",2025-09-30,research
+Phaethon_aethereus,317569664,-15.97023,-5.641604,,,,,"Levelwood, SH-SH, SH",2025-09-29,research
+Phaethon_aethereus,317905749,21.8749851162,-105.9150536442,,,,,"Santiago Ixcuintla, MX-NA, MX",2025-06-15,research
+Phaethon_aethereus,316581336,-15.9265347838,-5.7193544134,,,,,"379J+F93, Jamestown STHL 1ZZ, St. Helena",2025-09-21,research
+Fregata_minor,316198131,10.5525966667,-85.6974116667,,,,,"Carrillo, Guanacaste, CR",2025-09-22,research
+Fregata_minor,316443079,20.7288805556,-155.9858416667,,,,,"Maui County, HI, USA",2025-09-24,research
+Fregata_minor,316872359,-10.4164364067,105.67478261,,,,,"Christmas Island 6798, Christmas Island",2025-09-27,research
+Fregata_minor,317776614,22.231106946,-159.4012056463,,,,,"Kilauea, HI 96754, USA",2025-08-02,research
+Fregata_minor,317697104,22.660155,-157.9230033333,,,,,,2025-09-27,research
+Fregata_minor,316951369,20.632195,-156.4951466667,,,,,"HI, US",2025-09-26,research
+Fregata_minor,317306725,20.7590033333,-155.9864666667,,,,,"Uakea Rd, Hāna, HI, US",2025-09-28,research
+Fregata_minor,318082604,-15.3162083333,-147.3283388883,,,,,"Rangiroa, French Polynesia",2025-07-25,research
+Fregata_minor,316951413,20.6321966667,-156.4951466667,,,,,"Maui County, US-HI, US",2025-09-26,research
+Fregata_minor,317617281,-0.2619838,-90.7152749,,,,,"San Salvador, Ecuador",2018-08-18,research
+Fregata_minor,316038596,-6.1244863448,106.7635989194,,,,,Indonesia,2025-09-14,research
+Fregata_minor,317275899,-0.4005916667,-90.2914366667,,,,,"Seymour Norte, Galapagos, EC",2025-03-08,research
+Fregata_minor,316842242,22.2298892593,-159.4002030717,,,,,"Kauai County, HI, USA",2025-09-24,research
+Fregata_minor,316412280,20.6809533333,-156.44307,,,,,"Four Seasons Resort Maui at Wailea, Kihei, HI, US",2025-09-24,research
+Fregata_minor,316839680,22.231684386,-159.4018618836,,,,,"Kilauea, HI 96754, USA",2025-09-24,research
+Fregata_minor,316951388,20.632225,-156.4951333333,,,,,"Maui County, US-HI, US",2025-09-26,research
+Fregata_minor,315987823,-8.88912,-140.0281695,,,,,"French Polynesia, PF",2025-09-22,research
+Astrapia_mayeri,317780199,-5.7363278322,143.8122238976,,,,,Papua New Guinea,2025-09-15,research
+Astrapia_mayeri,316813886,-5.7772193462,143.8882015479,,,,,Papua New Guinea,2025-08-12,research
+Astrapia_mayeri,317774907,-5.788848514,143.9312525207,,,,,Papua New Guinea,2025-09-13,research
+Astrapia_mayeri,316842325,-5.7128120386,143.804716886,,,,,Papua New Guinea,2025-08-13,research
+Astrapia_mayeri,317774924,-5.6550821327,143.9434974541,,,,,Papua New Guinea,2025-09-13,research
+Astrapia_mayeri,317774923,-5.7067674679,143.950494459,,,,,Papua New Guinea,2025-09-13,research
+Heliconia_stricta,316446060,10.5506270221,-83.5109598935,,,,,"HF2Q+9JM, Limón, Pococí, Costa Rica",2025-09-03,research
+Heliconia_stricta,316239167,8.1205195,98.6240466667,,,,,"Ko Yao District, Phang Nga, TH",2025-09-24,research
+Heliconia_stricta,318119183,9.8561861544,-83.704992068,,,,,Costa Rica,2025-01-05,research
+Heliconia_stricta,317483531,8.1204824444,98.6240463056,,,,,4JCF+3FV ตำบล เกาะยาวน้อย อำเภอ เกาะยาว พังงา 82160 ประเทศไทย,2025-09-29,research
+Ruta_graveolens,316120165,-37.7157509134,-72.2384937108,,,,,"Mulchen, Mulchén, Bío Bío, Chile",2025-09-23,research
+Ruta_graveolens,317975519,-31.3126051456,-64.4612194598,,,,,"Bialet Massé, Córdoba, Argentina",2025-10-01,research
+Ruta_graveolens,316126307,43.0450632555,-70.7138447013,,,,,"Ocean Blvd, Rye, NH, US",2025-08-16,research
+Fregata_magnificens,316838626,18.72995,-87.690025,,,,,MX,2022-04-06,research
+Fregata_magnificens,317907949,-27.438305001,-48.5208573723,,,,,"Florianópolis, SC, Brasil",2025-08-31,research
+Fregata_magnificens,315971191,21.2674125647,-89.7389279405,,,,,"97336 Chelem, Yuc., México",2024-12-29,research
+Fregata_magnificens,317120836,-34.0430575172,-53.5382847987,,,,,"27200 Punta del Diablo, Departamento de Rocha, Uruguay",2025-09-27,research
+Fregata_magnificens,317905748,21.8750747233,-105.9150536442,,,,,"Santiago Ixcuintla, MX-NA, MX",2025-06-15,research
+Fregata_magnificens,317776983,20.339378214,-87.3506014135,,,,,"Tulum Municipality, Quintana Roo, Mexico",2025-09-14,research
+Fregata_magnificens,316293198,27.6386033333,-82.6693883333,,,,,"Bob Graham Sunshine Skyway Bridge, FL, US",2025-09-24,research
+Fregata_magnificens,315873646,21.2180085373,-86.7292867214,,,,,"Isla Mujeres, MX-QR, MX",2023-02-10,research
+Fregata_magnificens,315897396,-3.5229461275,-80.4167319947,,,,,"Tumbes, Perú",2009-08-02,research
+Fregata_magnificens,317544904,27.0486450586,-96.7062099309,,,,,"Port Aransas, TX, USA",2025-09-28,research
+Fregata_magnificens,317204570,-14.2778610885,-38.9933426093,,,,,"Itacaré - BA, Brasil",2025-07-31,research
+Fregata_magnificens,317043330,21.2310683669,-86.7332988135,,,,,"23 de Noviembre, Salina Grande, 77400 Isla Mujeres, Q.R., México",2025-08-25,research
+Fregata_magnificens,317652136,-22.8448765268,-43.2199283442,,,,,"Cidade Universitária, Rio de Janeiro - RJ, Brasil",2024-04-17,research
+Fregata_magnificens,316504023,14.61598366,-61.1032927089,,,,,"Schoelcher, Martinique",2025-09-12,research
+Fregata_magnificens,316336440,18.4906466667,-88.2993166667,,,,,"TERMINAL MARITIMA DE CHETUMAL, Chetumal, Q. Roo., MX",2025-09-24,research
+Fregata_magnificens,317643393,21.2766548387,-89.6319511213,,,,,"Progreso, Yucatan, Mexico",2025-09-21,research
+Fregata_magnificens,317204564,-14.2778610885,-38.9933426093,,,,,"Itacaré - BA, Brasil",2025-07-31,research
+Fregata_magnificens,318097541,-0.7465191821,-90.3124773026,,,,,"Puerto Ayora, Ecuador",2025-04-01,research
+Fregata_magnificens,317974504,-12.9767291697,-38.5158721754,,,,,"Comércio, Salvador - BA, 40301-155, Brésil",2025-08-31,research
+Fregata_magnificens,317905786,21.874895509,-105.9152253056,,,,,"Santiago Ixcuintla, MX-NA, MX",2025-06-13,research
+Fregata_magnificens,317779903,19.3488547245,-90.729881376,,,,,"Guadalupe Victoria, Champotón, Camp., México",2025-09-30,research
+Fregata_magnificens,316524154,28.7292462288,-89.5263207628,,,,,23 mi. SSW to 18 mi. S South Pass,2025-09-20,research
+Fregata_magnificens,316333339,10.5708274469,-83.519270104,,,,,"Pococi, Limon, CR",2025-09-24,research
+Fregata_magnificens,315865405,29.1329391328,-89.3521383493,,,,,"Plaquemines Parish, LA, USA",2025-09-20,research
+Fregata_magnificens,318082436,25.7964040619,-80.1859136078,,,,,"Biscayne Bay, Miami, FL, US",2025-10-01,research
+Fregata_magnificens,317905765,21.8750448543,-105.9151072884,,,,,"Santiago Ixcuintla, MX-NA, MX",2025-06-15,research
+Fregata_magnificens,317905772,21.8750846797,-105.915193119,,,,,"Santiago Ixcuintla, MX-NA, MX",2025-06-13,research
+Fregata_magnificens,317204594,-14.2778610885,-38.9933426093,,,,,"Itacaré - BA, Brasil",2025-07-31,research
+Fregata_magnificens,317204625,-14.2778610885,-38.9933426093,,,,,"Itacaré - BA, Brasil",2025-07-31,research
+Fregata_magnificens,316078527,18.7325605005,-87.691938188,,,,,"Othón P. Blanco, MX-QR, MX",2025-09-22,research
+Fregata_magnificens,317204638,-14.2778610885,-38.9933426093,,,,,"Itacaré - BA, Brasil",2025-07-31,research
+Fregata_magnificens,316288569,17.9012983,-62.8518418997,,,,,"W42X+C9G, Gustavia 97133, Saint-Barthélemy",2025-09-18,research
+Fregata_magnificens,315942900,20.6542891371,-105.2410964533,,,,,"Puerto Vallarta, Jal., Mexico",2025-09-19,research
+Fregata_magnificens,316593179,10.3367105697,-60.9892242774,,,,,"Ortoire, Trinidad and Tobago",2025-09-25,research
+Fregata_magnificens,315946492,36.3959020967,-75.8287952982,,,,,"Corolla, NC 27927, USA",2025-06-11,research
+Fregata_magnificens,317726060,26.5046353749,-80.0511506147,,,,,"Palm Beach County, FL, USA",2025-09-27,research
+Fregata_magnificens,316112505,8.9523800271,-79.5325128325,,,,,"Calle 2 Este, Panama City, Panamá, PA",2008-02-29,research
+Fregata_magnificens,316578244,4.8251252812,-51.9366642494,,,,,"Régina 97390, Guyane française",2025-08-20,research
+Fregata_magnificens,317907930,-27.6789755618,-48.6393446492,,,,,"Barra do Aririu, Palhoça - SC, Brasil",2025-08-30,research
+Fregata_magnificens,317858921,10.6955078689,-68.3013314102,,,,,"Boca de Aroa, Falcón, Venezuela",2025-08-24,research
+Fregata_magnificens,316447930,21.1143945,-86.7583166667,,,,,"Avenida Kukulcán, Cancún, Q. Roo., MX",2024-05-30,research
+Fregata_magnificens,318185750,9.387475,-84.1444933333,,,,,"Puntarenas Province, Quepos, Costa Rica",2018-12-09,research
+Fregata_magnificens,315971573,27.6690329899,-96.758622416,,,,,"Port Aransas, TX, USA",2025-09-13,research
+Fregata_magnificens,316431340,16.3279215669,-86.5721188671,,,,,"Bailey's Cay, Roatan, Bay Islands, HN",2025-01-04,research
+Fregata_magnificens,317907924,-27.6804327474,-48.6397732741,,,,,"Barra do Aririu, Palhoça - SC, Brasil",2025-08-30,research
+Fregata_magnificens,315973917,16.3274188519,-86.5706068869,,,,,"Isla de Roatán, Roatan, Bay Islands, HN",2025-01-05,research
+Fregata_magnificens,317108833,-32.1677696728,-52.1693298825,,,,,"Rio Grande - RS, Brasil",2020-05-20,research
+Fregata_magnificens,317776957,20.6342317367,-87.0641488657,,,,,"Gonzalo Guerrero, Playa del Carmen, Q.R., Mexico",2025-09-14,research
+Fregata_magnificens,317204537,-14.2778610885,-38.9933426093,,,,,"Itacaré - BA, Brasil",2025-07-28,research
+Fregata_magnificens,317252408,-14.2752825101,-38.9958316992,,,,,"Itacaré - BA, Brasil",2025-08-01,research
+Fregata_magnificens,315905851,22.87965,-109.90397,,,,,"Bahía San Lucas, MX",2025-09-22,research
+Fregata_magnificens,317386774,29.244014,-94.8778463,,,,,"11127 Stewart Rd, Galveston, TX 77554, USA",2025-09-28,research
+Fregata_magnificens,317537269,18.457165,-66.0809333333,,,,,"Miramar, San Juan, 00907, Puerto Rico",2025-09-27,research
+Fregata_magnificens,316341456,26.4671416667,-82.0305833333,,,,,"Lee County, FL, USA",2025-09-23,research
+Fregata_magnificens,318154748,20.5071703,-86.9446237,,,,,"San Miguel de Cozumel, Quintana Roo, Mexico",2022-08-08,research
+Fregata_magnificens,317725885,26.5044692114,-80.0512705977,,,,,"Palm Beach County, FL, USA",2025-09-25,research
+Fregata_magnificens,316152790,-22.597057389,-41.990715068,,,,,"Praiao da Barra de Sao Joao - State of Rio de Janeiro, Brazil",2025-09-04,research
+Fregata_magnificens,316255337,33.6055666667,-78.97265,,,,,"Surfside Beach, SC 29575, USA",2024-08-11,research
+Fregata_magnificens,317803214,10.5881855107,-85.6602297351,,,,,Costa Rica,2025-09-30,research
+Fregata_magnificens,317342210,9.7896134067,-84.6336079602,,,,,"Provincia de Puntarenas, Garabito, Costa Rica",2024-03-05,research
+Fregata_magnificens,317586194,-22.964425,-43.1645388333,,,,,"Rio de Janeiro, RJ, BR",2025-09-29,research
+Fregata_magnificens,317342207,9.7896134067,-84.6336079602,,,,,"Provincia de Puntarenas, Garabito, Costa Rica",2024-03-05,research
+Fregata_magnificens,316751754,17.9500013591,-66.8955294744,,,,,"Carenero, Guánica 00653, Puerto Rico",2025-09-23,research
+Fregata_magnificens,317552974,20.6538138889,-105.2410694444,,,,,"Puerto Vallarta, Jalisco, Mexico",2025-09-19,research
+Fregata_magnificens,315841220,14.5050357372,-61.0850562331,,,,,"Les Anses-d'Arlet, Martinique",2025-09-19,research
+Fregata_magnificens,317391759,-27.5968578,-48.5468118,,,,,"Florianópolis, SC, Brasil",2024-02-08,research
+Fregata_magnificens,317643388,21.2766548387,-89.6319511213,,,,,"Progreso, Yucatan, Mexico",2025-09-21,research
+Fregata_magnificens,316904335,26.2645133333,-80.0824055,,,,,"NE 30th Ave, Hillsboro Beach, FL, US",2025-05-17,research
+Fregata_magnificens,317544932,27.2248256838,-96.3964579205,,,,,,2025-09-28,research
+Fregata_magnificens,315924110,19.3802116667,-81.4167116667,,,,,"Northwest Point Road, West Bay, West Bay, KY",2025-09-22,research
+Fregata_magnificens,315935059,23.1929042,-106.4095209,,,,,"Stone Island, 82043 Mazatlan, Sinaloa, Mexico",2025-09-22,research
+Fregata_magnificens,317204607,-14.2778610885,-38.9933426093,,,,,"Itacaré - BA, Brasil",2025-07-31,research
+Fregata_magnificens,317400586,-22.9689667989,-43.2228594263,,,,,"Jardim Botânico, Río de Janeiro - Estado de Río de Janeiro, Brasil",2025-09-10,research
+Fregata_magnificens,317612993,-22.8383538417,-43.2350085802,,,,,"Rio de Janeiro, BR-RJ, BR",2024-05-31,research
+Fregata_magnificens,317204629,-14.2778610885,-38.9933426093,,,,,"Itacaré - BA, Brasil",2025-07-31,research
+Fregata_magnificens,318094800,27.5328758,-82.6258339,,,,,"Emerson Point Preserve, 5801 17th St W, Palmetto, FL 34221, USA",2025-09-25,research
+Fregata_magnificens,317742078,26.815249637,-82.282666581,,,,,"Bocilla Island, FL, US",2025-09-29,research
+Fregata_magnificens,317252409,-14.2752825101,-38.9958316992,,,,,"Itacaré - BA, Brasil",2025-08-01,research
+Fregata_magnificens,317428243,18.4563736117,-66.0772795165,,,,,"Condado, San Juan, 00907, Puerto Rico",2025-09-27,research
+Fregata_magnificens,317629989,8.3720082778,-80.1095749722,,,,,"Santa Clara, Río Hato, Provincia de Coclé, Panama",2025-09-10,research
+Fregata_magnificens,317204613,-14.2778610885,-38.9933426093,,,,,"Itacaré - BA, Brasil",2025-07-31,research
+Fregata_magnificens,318197595,21.3763166667,-89.6888583333,,,,,"Gulf of America, MX",2025-09-25,research
+Fregata_magnificens,316718968,17.9462362,-67.1929137,,,,,"WRW4+MQ8, Boquerón, Cabo Rojo 00622, Puerto Rico",2025-09-26,research
+Fregata_magnificens,316055932,19.2233975248,-104.7105922818,,,,,"Centro, 48980 San Patricio, Jal., México",2025-08-05,research
+Fregata_magnificens,315873603,21.1053260565,-86.7601279724,,,,,"Benito Juárez, MX-QR, MX",2023-02-08,research
+Fregata_magnificens,317725063,26.5045523212,-80.0512964575,,,,,"Palm Beach County, FL, USA",2025-09-22,research
+Fregata_magnificens,315971585,27.9142763126,-95.83967062,,,,,,2025-09-14,research
+Fregata_magnificens,316662839,20.8476916667,-86.8752216667,,,,,"Puerto Morelos, Q. Roo., MX",2025-09-19,research
+Fregata_magnificens,317204617,-14.2778610885,-38.9933426093,,,,,"Itacaré - BA, Brasil",2025-07-31,research
+Fregata_magnificens,316322107,-23.5010159424,-45.1384757459,,,,,"Ubatuba, SP, 11680-000, Brasil",2025-09-20,research
+Fregata_magnificens,316607073,24.6458703483,-82.8686141838,,,,,"FL, US",2025-09-22,research
+Fregata_magnificens,316158958,25.7484277437,-111.2574273309,,,,,"Bahía de Loreto, Loreto, MX-BS, MX",2025-09-22,research
+Fregata_magnificens,316668372,29.8085403997,-114.3948137997,,,,,"San Felipe, B.C., Mexico",2025-09-25,research
+Fregata_magnificens,316846278,17.9145216667,-66.2379533333,,,,,"PR, US",2025-07-12,research
+Fregata_magnificens,316430222,16.3282592745,-86.5720619966,,,,,"Bailey's Cay, Roatan, Bay Islands, HN",2025-01-04,research
+Fregata_magnificens,316633607,21.8421297,-105.8857121,,,,,"Isla Santa Isabel, Nay., Mexico",2024-01-28,research
+Fregata_magnificens,317204556,-14.2778610885,-38.9933426093,,,,,"Itacaré - BA, Brasil",2025-07-31,research
+Fregata_magnificens,316126254,20.6478959598,-105.2329811454,,,,,"Fluvial Vallarta, Puerto Vallarta, Jalisco, Mexico",2025-09-19,research
+Fregata_magnificens,317846929,24.6273033333,-82.872245,,,,,"Garden Key Pathway, FL, US",2025-09-25,research
+Fregata_magnificens,316801725,20.7719876019,-105.5097877979,,,,,"63727 Nay., México",2025-09-26,research
+Fregata_magnificens,317907988,-27.606198392,-48.5995421648,,,,,"Centro, Florianópolis - SC, Brasil",2025-08-31,research
+Fregata_magnificens,317204576,-14.2778610885,-38.9933426093,,,,,"Itacaré - BA, Brasil",2025-07-31,research
+Fregata_magnificens,317108294,-32.1675880349,-52.1693298825,,,,,"Rio Grande - RS, Brasil",2020-05-20,research
+Fregata_magnificens,317776616,22.2310511494,-159.4016949443,,,,,"Kilauea, HI 96754, USA",2025-08-02,research
+Fregata_magnificens,317907928,-27.680619283,-48.6398184675,,,,,"Barra do Aririu, Palhoça - SC, Brasil",2025-08-30,research
+Fregata_magnificens,316188123,21.2846342888,-86.8537423387,,,,,México,2025-08-17,research
+Fregata_magnificens,315959118,-22.7673619493,-43.1145242057,,,,,"Ilha de Paquetá - Paquetá, Rio de Janeiro - RJ, Brasil",2025-09-20,research
+Fregata_magnificens,317560016,20.6534058861,-105.2411578102,,,,,"Área Militar de Vallarta, Puerto Vallarta, Jal., Mexico",2025-09-19,research
+Fregata_magnificens,317582006,26.4970772847,-80.0691330513,,,,,"Boynton Beach, Florida, USA",2025-09-27,research
+Fregata_magnificens,317043321,20.494569405,-87.2121930461,,,,,"Solidaridad, MX-QR, MX",2025-08-23,research
+Fregata_magnificens,317412141,16.5211599,-88.3712796,,,,,"Placencia, Belize",2011-01-31,research
+Fregata_magnificens,317204595,-14.2778610885,-38.9933426093,,,,,"Itacaré - BA, Brasil",2025-07-31,research
+Fregata_magnificens,317204633,-14.2778610885,-38.9933426093,,,,,"Itacaré - BA, Brasil",2025-07-31,research
+Fregata_magnificens,317905803,21.875094636,-105.915128746,,,,,"Santiago Ixcuintla, MX-NA, MX",2025-06-14,research
+Fregata_magnificens,317409656,-0.9555688964,-90.9819448655,,,,,"Isabela, Ecuador",2018-02-06,research
+Fregata_magnificens,317414673,20.8733650458,-86.9938163653,,,,,"Puerto Morelos, Q. Roo., MX",2025-09-28,research
+Fregata_magnificens,317204637,-14.2778610885,-38.9933426093,,,,,"Itacaré - BA, Brasil",2025-07-31,research
+Fregata_magnificens,317114276,29.0621645744,-89.43695095,,,,,"Plaquemines Parish, LA, USA",2025-09-20,research
+Fregata_magnificens,316772254,16.3273970001,-86.5713083553,,,,,"Sandy Bay, Roatan, Bay Islands, HN",2024-12-31,research
+Fregata_magnificens,317720954,9.119355849,-79.7112112046,,,,,"Colón District, Colón Province, Panama",2025-09-18,research
+Fregata_magnificens,317204623,-14.2778610885,-38.9933426093,,,,,"Itacaré - BA, Brasil",2025-07-31,research
+Fregata_magnificens,318233443,18.2719007104,-87.8346294316,,,,,"Othón P. Blanco, Quintana Roo, Mexico",2025-09-17,research
+Fregata_magnificens,317305313,-0.0497222217,-91.5608333333,,,,,"Isabela, 厄瓜多尔",2025-08-11,research
+Fregata_magnificens,317326321,15.7883015789,-96.0519421877,,,,,"Santa María Huatulco, Oax., México",2025-09-28,research
+Fregata_magnificens,317365564,-22.8819800248,-42.3105483502,,,,,"Araruama, RJ, 28970-000, Brasil",2025-09-28,research
+Fregata_magnificens,317905793,21.875094636,-105.915193119,,,,,"Santiago Ixcuintla, MX-NA, MX",2025-06-14,research
+Fregata_magnificens,317942702,8.952245,-79.5347283333,,,,,"Avenida Central, Panama City, Panamá, PA",2025-09-27,research
+Fregata_magnificens,317043331,21.2482264186,-86.7348623319,,,,,"Isla Mujeres, MX-QR, MX",2025-08-25,research
+Fregata_magnificens,315832904,21.0742710153,-86.7751956737,,,,,"Cancún, Q. Roo., MX",2025-09-21,research
+Fregata_magnificens,317204566,-14.2778610885,-38.9933426093,,,,,"Itacaré - BA, Brasil",2025-07-31,research
+Fregata_magnificens,316488963,29.0279842,-81.0754657,,,,,"Volusia County, FL, USA",2010-11-14,research
+Fregata_magnificens,316657139,9.7115420739,-84.5458579673,,,,,"San José, Carara, Costa Rica",2025-05-15,research
+Strelitzia_reginae,317946784,-25.7730283333,27.8762366667,,,,,"Hartbeespoort, 0216, South Africa",2025-10-01,research
+Strelitzia_reginae,316329078,-19.8287376,47.0572447997,,,,,"53C5+W2, Ancirabė 110, Madagaskaras",2025-09-24,research
+Strelitzia_reginae,317758796,22.5924056075,114.1930903574,,,,,"深圳梧桐山及其周边公园Wutong Mountain and its Surrounding Parks , GD, CN",2025-09-28,research
+Strelitzia_reginae,317882141,-27.8521533333,153.3595583333,,,,,"Manor Circle, Hope Island, QLD, AU",2023-07-05,research
+Strelitzia_reginae,316481071,-36.8328111,175.7037146,,,,,"Whitianga 3510, New Zealand",2025-09-25,research
+Seleucidis_melanoleucus,318161100,-0.8048327,131.6438679,,,,,"Malagufuk, Kec. Makbon, Kabupaten Sorong, Papua Bar., Indonesia",2025-09-13,research
+Cicinnurus_regius,317467993,-0.8048327,131.6438679,,,,,"Malagufuk, Kec. Makbon, Kabupaten Sorong, Papua Bar., Indonesia",2025-09-12,research
+Cicinnurus_regius,315989834,-0.9334460604,131.4144442461,,,,,"Kota Sorong, Papua Bar., Indonesia",2025-08-28,research
+Cicinnurus_regius,316932118,-0.7940418895,131.6416587308,,,,,"Asbaken, Makbon, Sorong Regency, West Papua, Индонезия",2025-08-11,research

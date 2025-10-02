@@ -1,3 +1,10 @@
 requests
 torchvision
 torch
+pandas
+numpy
+matplotlib
+seaborn
+folium
+streamlit
+streamlit-folium 
